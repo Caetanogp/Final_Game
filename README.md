@@ -51,6 +51,9 @@ O objetivo do jogo é controlar uma nave espacial, desviar dos inimigos e destru
 
 ---
 
+## Link para o vídeo
+https://www.youtube.com/watch?v=sSagqoacSuQ
+
 ## 📜 Licença
 
 Este projeto foi desenvolvido para fins educacionais.
